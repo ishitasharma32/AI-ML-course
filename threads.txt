@@ -1,0 +1,8 @@
+program : a program is a sequence of instructions wrtiten in a prograaming language
+google chrome is .exe file 
+process: a process is simply an instance of a program that is being execute
+1. every process has a separate memory space cannot corrupt another process
+2. increased execution time to switch between processes
+
+3. A thread is a unit of execution within the process
+single threaded process - will share code segment, data segment and heap
